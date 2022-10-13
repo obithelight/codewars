@@ -1,3 +1,3 @@
 # codewars
 
-7kyu level challenges on codewars
+7kyu codewar challenges 
